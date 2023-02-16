@@ -1,0 +1,67 @@
+html, body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-bar {
+    background-color: rgba(211, 46, 57, 0.9);
+    width: 100%;
+    color: #ffffff;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+p {
+
+    position: relative;
+    left: 12px;
+}
+
+h2 {
+    position: relative;
+    font-size: 17px;
+    left: 12px;
+}
+
+.card-container {
+    position: absolute;
+    top: 26vh;
+    display: flex;
+    flex-wrap: wrap;
+    width: 60vw;
+    justify-content: space-around;
+}
+
+.team-member-card {
+    width: 250px;
+    height: 34vh;
+    margin-bottom: 5vh;
+    box-shadow: 2px 5px 5px rgb(34, 31, 31);
+    border-top-left-radius: 10px;
+    background-color: rgb( 241, 248, 248 );
+}
+
+.team-member-card-top {
+    background-color: rgb(44, 100, 211);
+    border: 2px solid rgb(44, 100, 221);
+    border-top-left-radius: 10px;
+    width: 246px;
+}
+
+.team-member-card-bottom {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
