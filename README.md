@@ -15,7 +15,13 @@
   ## Description
   This app allows the user to create cards for different employees in order to organize and easily track different work teams.
   ## Installation
-  To install this project, clone this repository and install the necessary packages.
+  To install this application:
+  1. Clone this repository to your local machine
+  2. Open your CLI of choice and navigate to the repository.
+  3. Run `npm install` to install the required packages.
+  4. Run command `node index.js` and follow the prompts.
+    
+  >For a video walkthrough, click [here](https://youtu.be/rXmMFDtXres).
   ## Usage
   This app runs in the browser. Once installed, open in any browser.
   ## Contributions
