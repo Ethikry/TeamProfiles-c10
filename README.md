@@ -28,7 +28,7 @@
   ## Contributions
   Not accepting contributions.
   ## Tests 
-  To test, run in the browser.
+  To test, follow above instructions.
   ## License
   
   
