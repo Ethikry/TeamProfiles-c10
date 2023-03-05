@@ -1,0 +1,28 @@
+{
+  "name": "teamprofiles-c10",
+  "version": "1.0.0",
+  "description": "![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethikry/TeamProfiles-c10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ethikry/TeamProfiles-c10/issues"
+  },
+  "homepage": "https://github.com/Ethikry/TeamProfiles-c10#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.0.0"
+  }
+}
